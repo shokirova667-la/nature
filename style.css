@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    background-color: #f1f8e9;
+    text-align: center;
+    padding: 30px;
+}
+
+.photo {
+    width: 180px;
+    height: 120px;
+    margin: 15px auto;
+    line-height: 120px;
+    color: white;
+    font-weight: bold;
+}
+
+.green { background-color: #388e3c; }
+.blue  { background-color: #0288d1; }
+.yellow{ background-color: #fbc02d; color: #333; }
